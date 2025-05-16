@@ -1,2 +1,2 @@
-# taxi-tip-Model
-Creating a solution for taxi drivers to generate tip from their requsted drives from customers and it involves a tip and creating an application to predict the tips at any given time
+# Taxi-Tip-Model
+Developing a solution for taxi drivers to help them earn tips from customer rides, including an application that predicts potential tips in real-time based on ride details.
